@@ -1,5 +1,5 @@
 # 🙏 नमस्ते, I'm Rudranarayan Padhan
-🎓 MCA Graduate | 💻 MERN Stack Developer
+🎓 MCA Graduate | 💻 MERN Stack Developer | Cyber_Security_Analyst
 
 ![Profile views](https://komarev.com/ghpvc/?username=Rudra9Padhan&style=for-the-badge)
 
@@ -20,11 +20,12 @@
 ---
 
 ### 🔧 Projects
-- 🔸 **Medicine Delivery web apps** (HTML, CSS, ReactJs, Nodejs, ExpressJs)
-- 🔸 **Amazon Clone** (HTML, CSS)
-- 🔸 **Crop Prediction Model** (HTML, CSS, JS, Flask)
-- 🔸 **Portfolio Website** (coming soon 🚧)
-- 🔸 **Freelance Landing Pages**
+- 🔸 **Medicine Delivery web apps** (HTML, CSS, ReactJs, NodeJs, ExpressJs)
+- 🔸 **MyPortolio** (HTML, CSS)
+- 🔸 **MyChats-apps** (HTML, CSS, JS, ReactJs, NodeJs, ExpressJs, MongoDB)
+- 🔸 **My_College Website** (coming soon 🚧)
+- 🔸 **Tracker_Apps**
+- 🔸 **Dog-vs-Cat-ML-Models**
 
 > *Check my repositories below for full code & details.*
 
@@ -45,12 +46,12 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manasranjanjena68&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manasranjanjena68&layout=compact&theme=radical)
-![Streak](https://streak-stats.demolab.com?user=manasranjanjena68&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rudra9Padhan&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra9Padhan&layout=compact&theme=radical)
+![Streak](https://streak-stats.demolab.com?user=Rudra9Padhan&theme=radical&hide_border=true)
 
 ---
 
 ### 🌐 Connect With Me
-📫 **Email:** your-email@example.com  
-💼 **LinkedIn:** https://linkedin.com/in/your-profile
+📫 **Email:** padhandada585gmail.com  
+💼 **LinkedIn:** www.linkedin.com/in/rudranarayan-padhan55
