@@ -23,9 +23,9 @@
 - 🔸 **Medicine Delivery web apps** (HTML, CSS, ReactJs, NodeJs, ExpressJs)
 - 🔸 **MyPortolio** (HTML, CSS)
 - 🔸 **MyChats-apps** (HTML, CSS, JS, ReactJs, NodeJs, ExpressJs, MongoDB)
-- 🔸 **My_College Website** (coming soon 🚧)
-- 🔸 **Tracker_Apps**
-- 🔸 **Dog-vs-Cat-ML-Models**
+- 🔸 **My_College Website** (HTML, CSS)
+- 🔸 **Tracker_Apps**(HTML, CSS, EJS, NodeJs)
+- 🔸 **Dog-vs-Cat-ML-Models**(Python)
 
 > *Check my repositories below for full code & details.*
 
