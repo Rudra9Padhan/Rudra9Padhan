@@ -9,6 +9,7 @@
 - 🔭 Building cool projects with **MERN Stack**
 - 🌱 On the journey to become a **Full Stack Developer**
 - 🧰 Tools: `React` `Node.js` `Express` `MongoDB` `JavaScript` `HTML` `CSS` `Git` `GitHub` `VS Code`
+-    Cyber-Security: SCO, Analyst
 
 ---
 
