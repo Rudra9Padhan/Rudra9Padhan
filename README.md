@@ -34,7 +34,7 @@
 - 📍 **Tracker Apps** *(HTML, CSS, EJS, Node.js)*  
 - 🐶🐱 **Dog-vs-Cat ML Model** *(Python, Flask, ML)*  
 
-> 📌 *Check my repositories below for full code & details.*
+> 📌 *Check my repositories below for full code & details. *
 
 ---
 
