@@ -15,11 +15,26 @@
 
 ---
 
-## 🚀 About Me
-- 🔭 Building cool projects with **MERN Stack**  
-- 🌱 On the journey to become a **Full Stack Developer**  
-- 🧰 Tools: `React` `Node.js` `Express` `MongoDB` `JavaScript` `HTML` `CSS` `Git` `GitHub` `VS Code`  
-- 🔐 Cyber Security Enthusiast (**SOC Analyst**)  
+## 🌟 About Me
+- 🎯 I love solving real-world problems with **clean & scalable code**.  
+- 🌱 Currently exploring **DevOps, Cloud & System Design**.  
+- 💡 Always curious about **new technologies & open-source contributions**.  
+- 📫 Reach me at: **[padhandada585@gmail.com](mailto:padhandada585@gmail.com)**  
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="mailto:padhandada585@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rudranarayan-padhan55">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Rudra9Padhan">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -42,35 +57,39 @@
 
 ---
 
-## 🛠 Tech Stack
+
+## ⚡ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,python,git,github,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,html,css,js,ts,python,java,git,docker,linux" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rudra9Padhan&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra9Padhan&layout=compact&theme=tokyonight" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rudra9Padhan&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rudra9Padhan&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudra9Padhan&theme=tokyonight" alt="GitHub Streak" height="180"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 📂 Featured Projects
 <p align="center">
-  <a href="mailto:padhandada585@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/rudranarayan-padhan55"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Rudra9Padhan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/Rudra9Padhan/Medicine_Delivery_web_apps">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rudra9Padhan&repo=Medicine_Delivery_web_apps&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Rudra9Padhan/MERN-Chat-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rudra9Padhan&repo=MERN-Chat-App&theme=tokyonight" />
+  </a>
 </p>
 
 ---
 
-<!-- Footer Wave -->
+## 🏆 Achievements & Contribution Graph
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=100&section=footer"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Rudra9Padhan&theme=dracula&margin-w=15&margin-h=15&column=7" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rudra9Padhan&theme=tokyo-night" />
 </p>
