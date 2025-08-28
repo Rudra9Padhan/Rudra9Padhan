@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Hello, I'm Rudranarayan Padhan &fontSize=40&fontColor=ffffff&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Rudranarayan Padhan &fontSize=40&fontColor=ffffff&fontAlignY=35" />
 </p>
 
 <h3 align="center">🎓 MCA Graduate | 💻 MERN Stack Developer | 🔐 Cyber Security Analyst</h3>
