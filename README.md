@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hey!%20I'm%20Rudranarayan%20Padhan%20👋&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=38" />
 </p>
 
-<h3 align="center">🎓 MCA Graduate | 💻 MERN Stack Developer | 🔐 Cyber Security Enthusiast | ☁️ DevOps Explorer</h3>
+<h3 align="center">🎓 MCA Graduate | 💻 MERN Stack Developer | 🔐 Cyber Security Enthusiast |  DevOps Explorer</h3>
 
 ---
 
@@ -17,7 +17,7 @@
 ## 🌟 About Me
 ✨ Passionate about crafting **scalable web apps** and solving **real-world challenges** through code.  
 🔭 Exploring **DevOps, Cloud, and System Design** to become a **Top 1% Engineer**.  
-🤝 Open to **collaborations** on impactful projects.  
+ Open to **collaborations** on impactful projects.  
 📫 Reach me at: **[padhandada585@gmail.com](mailto:padhandada585@gmail.com)**  
 
 ---
