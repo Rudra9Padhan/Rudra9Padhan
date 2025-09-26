@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hey!%20I'm%20Rudranarayan%20Padhan%20👋&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=38" />
 </p>
 
-<h3 align="center">🎓 MCA Graduate | 💻 MERN Stack Developer | 🔐 Cyber Security Enthusiast |  DevOps Explorer</h3>
+<h3 align="center">🎓 MCA Graduate | 💻 MERN Stack Developer | 🔐 Cyber Security Enthusiast |  DevOps Explorer </h3>
 
 ---
 
