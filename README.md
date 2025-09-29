@@ -37,7 +37,7 @@
 
 ---
 
-## 👨‍💻 What I Do
+## 👨‍💻 What I Do....
 - 🌐 Full-Stack **Web Applications**  
 - 🎨 Freelancing with **UI/UX** + Branding  
 - ✉️ Exploring **Email Copywriting**  
